@@ -14,3 +14,12 @@ i+=1
 print('abc)
 ```
 Q:while 迴圈的執行範圍為和? 何時跳回重複?
+#:註解
+```
+i = 1
+while i < 3:
+ print (i)
+i+=1
+print ('abc')
+無窮迴圈
+```
