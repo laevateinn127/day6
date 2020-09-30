@@ -23,3 +23,27 @@ i+=1
 print ('abc')
 無窮迴圈
 ```
+```
+why+h=1程式就成功了
+k =1
+h = 1
+while k <6 :
+  while h < 6:
+    print (k,end=(''))
+    h+=1
+  k+=1
+  h =1
+  print()
+  ```
+ ```
+ *******
+  *****
+   *** 
+    *
+    的練習
+  for a in range(*1,*10):
+  print("")
+  for b in range(1,*10):
+    print(a,end=(''))
+    ```
+    
