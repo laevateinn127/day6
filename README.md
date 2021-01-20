@@ -1,4 +1,4 @@
-# day6
+# day6 圖形
  While 迴圈
 ```
 while 條件判斷式:
